@@ -5,35 +5,35 @@
       "email": "johndoe1@gmail.com",
       "password": "123456",
       "repassword": "123456",
-      "id": 1
+      "id": "1"
     },
     {
       "name": "Alexis Patazca",
       "email": "santos1@gmail.com",
       "password": "santos1",
       "repassword": "santos1",
-      "id": 2
+      "id": "2"
     },
     {
       "name": "Saul Mendoza",
       "email": "saul28@gmail.com",
       "password": "saul123",
       "repassword": "saul123",
-      "id": 3
+      "id": "3"
     },
     {
       "name": "Enrique",
       "email": "holaa@gmail.com",
       "password": "1234",
       "repassword": "1234",
-      "id": 4
+      "id": "4"
     },
     {
       "name": "asdasd",
       "email": "aaa@gmail.com",
       "password": "333",
       "repassword": "333",
-      "id": 5
+      "id": "5"
     }
   ],
   "data": [
@@ -52,7 +52,7 @@
       "diasRetraso": 6,
       "interesCompensatorio": 0.19,
       "interesMoratorio": 0.25,
-      "id": 1
+      "id": "1"
     },
     {
       "moneda": "Soles",
@@ -69,7 +69,7 @@
       "diasRetraso": 6,
       "interesCompensatorio": 0.19,
       "interesMoratorio": 0.25,
-      "id": 2
+      "id": "2"
     },
     {
       "moneda": "Soles",
@@ -86,7 +86,7 @@
       "diasRetraso": 6,
       "interesCompensatorio": 0.19,
       "interesMoratorio": 0.25,
-      "id": 3
+      "id": "3"
     },
     {
       "moneda": "Soles",
@@ -103,7 +103,7 @@
       "diasRetraso": 0,
       "interesCompensatorio": 0,
       "interesMoratorio": 0,
-      "id": 4
+      "id": "4"
     },
     {
       "moneda": "Soles",
@@ -120,7 +120,7 @@
       "diasRetraso": 0,
       "interesCompensatorio": 0,
       "interesMoratorio": 0,
-      "id": 5
+      "id": "5"
     },
     {
       "moneda": "Soles",
@@ -137,7 +137,7 @@
       "diasRetraso": 0,
       "interesCompensatorio": 0,
       "interesMoratorio": 0,
-      "id": 6
+      "id": "6"
     },
     {
       "moneda": "Soles",
@@ -154,7 +154,7 @@
       "diasRetraso": 0,
       "interesCompensatorio": 0,
       "interesMoratorio": 0,
-      "id": 7
+      "id": "7"
     },
     {
       "moneda": "Soles",
@@ -171,7 +171,24 @@
       "diasRetraso": 0,
       "interesCompensatorio": 0,
       "interesMoratorio": 0,
-      "id": 8
+      "id": "8"
+    },
+    {
+      "id": "e23e",
+      "moneda": "Soles",
+      "precioCompra": 2500,
+      "cuotaInicial": 187.5,
+      "tasaEfectiva": 8,
+      "numeroCuotas": 18,
+      "periodoGracia": 2,
+      "periodoGraciaParcial": 0,
+      "periodoGraciaTotal": 2,
+      "cuota": 152.92,
+      "userId": "1",
+      "nombreRegistro": "test",
+      "diasRetraso": 5,
+      "interesCompensatorio": 0.16,
+      "interesMoratorio": 0.21
     }
   ]
 }
